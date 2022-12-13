@@ -1,0 +1,24 @@
+
+p
+java:S1104
+"ZMake FirstNameInput a static final constant or non-public and provide accessors if needed.(¯Ñ¡‰
+o
+java:S1104"YMake LastNameInput a static final constant or non-public and provide accessors if needed.(›È Š
+l
+java:S1104"VMake PhoneInput a static final constant or non-public and provide accessors if needed.(¢¾¹±
+l
+java:S1104"VMake EmailInput a static final constant or non-public and provide accessors if needed.(»—¦Ş
+o
+java:S1104"YMake PasswordInput a static final constant or non-public and provide accessors if needed.(¬°àè
+w
+java:S1104"\Make AccountTypeInput a static final constant or non-public and provide accessors if needed.(É¾®–şÿÿÿÿ
+n
+java:S1104"XMake SignUpButton a static final constant or non-public and provide accessors if needed.(àı
+n	java:S116
+"YRename this field "FirstNameInput" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Ñ¡‰
+m	java:S116"XRename this field "LastNameInput" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›È Š
+j	java:S116"URename this field "PhoneInput" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¾¹±
+j	java:S116"URename this field "EmailInput" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»—¦Ş
+m	java:S116"XRename this field "PasswordInput" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬°àè
+u	java:S116"[Rename this field "AccountTypeInput" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¾®–şÿÿÿÿ
+l	java:S116"WRename this field "SignUpButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àı
